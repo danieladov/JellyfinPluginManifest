@@ -1,0 +1,20 @@
+[
+    {
+        "guid": "f21bbed8-3a97-4d8b-88b2-48aaa65427cb",
+        "name": "Merge Versions",
+        "description": "Jellyfin Merge Versions plugin is a plugin that automatically groups every repeated movie\n",
+        "overview": "Automatically merge repeated movies",
+        "owner": "danieladov",
+        "category": "General",
+        "versions": [
+            {
+                "version": "1.1.0.0",
+                "changelog": "changelog\n",
+                "targetAbi": "10.6.0.0",
+                "sourceUrl": "https://github.com/danieladov/jellyfin-plugin-mergeversions/releases/download/1.1.0/Jellyfin-Plugin-MergeVersions.zip",
+                "checksum": "489368002020bc1cc448a4dd84a36680",
+                "timestamp": "2020-08-08 12:19:58"
+            }
+        ]
+    }
+]
