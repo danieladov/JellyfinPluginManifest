@@ -11,9 +11,9 @@
                 "version": "1.1.0.0",
                 "changelog": "changelog\n",
                 "targetAbi": "10.6.0.0",
-                "sourceUrl": "https://github.com/danieladov/jellyfin-plugin-mergeversions/releases/download/1.1.0/Jellyfin-Plugin-MergeVersions.zip",
-                "checksum": "489368002020bc1cc448a4dd84a36680",
-                "timestamp": "2020-08-08 12:19:58"
+                "sourceUrl": "https://github.com/danieladov/jellyfin-plugin-mergeversions/releases/download/1.2.0/Jellyfin-Plugin-MergeVersions.zip",
+                "checksum": "fdd3d88c674f24ea80561c17beac4d69",
+                "timestamp": "2020-08-09 19:51:58"
             }
         ]
     }
