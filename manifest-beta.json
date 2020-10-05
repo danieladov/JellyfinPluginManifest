@@ -12,7 +12,7 @@
                 "changelog": "changelog\n",
                 "targetAbi": "10.6.0.0",
                 "sourceUrl": "https://github.com/danieladov/JellyfinPluginManifest/blob/master/Jellyfin-Plugin-MergeVersions.zip",
-                "checksum": "4dd5f0b36f8236512af651df8ac8855f",
+                "checksum": "9780c273415c11e05639ac8f5729a5e1",
                 "timestamp": "2020-09-01 14:30:58"
             }
         ]
