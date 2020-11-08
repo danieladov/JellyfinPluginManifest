@@ -51,7 +51,7 @@
         "description": "Skin manager helps you to download and install most popular skins for jellyfin\n",
         "overview": "Skins for jellyfin",
         "owner": "danieladov",
-        "category": "Look and Feel",
+        "category": "General",
         "versions": [
             {
                 "version": "1.0.0.0",
