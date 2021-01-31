@@ -44,6 +44,14 @@
         "category": "General",
         "versions": [
 			{
+                "version": "10.7.0.2",
+                "changelog": "Fix Ilogger error",
+                "targetAbi": "10.7.0.0",
+                "sourceUrl": "https://github.com/danieladov/jellyfin-plugin-themesongs/releases/download/10.7.0.2/Jellyfin-Plugin-ThemeSongs.zip",
+                "checksum": "9751a00ff9d6de8ca8693c6a448a9f70",
+                "timestamp": "2021-01-31 03:30:58"
+            },
+			{
                 "version": "10.7.0",
                 "changelog": "Update to 10.7.0",
                 "targetAbi": "10.7.0.0",
