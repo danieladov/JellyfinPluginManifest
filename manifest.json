@@ -86,6 +86,14 @@
         "category": "General",
         "versions": [
 			{
+                "version": "2.0.0",
+                "changelog": "New custom skin editor\n",
+                "targetAbi": "10.7.0.0",
+                "sourceUrl": "https://github.com/danieladov/jellyfin-plugin-skin-manager/releases/download/2.0.0/Jellyfin-Plugin-SkinManager.zip",
+                "checksum": "88e0e5c8d5a116d49f0ebd339da3f7a9",
+                "timestamp": "2021-05-13 12:02:52"
+            },
+			{
                 "version": "1.5.0.0",
                 "changelog": "[BETA] Options to preview and edit the skins\n",
                 "targetAbi": "10.7.0.0",
