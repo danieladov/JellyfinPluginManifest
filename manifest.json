@@ -90,7 +90,7 @@
                 "changelog": "New custom skin editor\n",
                 "targetAbi": "10.7.0.0",
                 "sourceUrl": "https://github.com/danieladov/jellyfin-plugin-skin-manager/releases/download/2.0.0/Jellyfin-Plugin-SkinManager.zip",
-                "checksum": "88e0e5c8d5a116d49f0ebd339da3f7a9",
+                "checksum": "64672b424ca0ac7cd1f3b032eef40b55",
                 "timestamp": "2021-05-13 12:02:52"
             },
 			{
