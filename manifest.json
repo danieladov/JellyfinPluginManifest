@@ -8,6 +8,14 @@
         "category": "General",
         "versions": [
 			{
+                "version": "10.7.7.0",
+                "changelog": "Fix error where movies were merged only by year\n",
+                "targetAbi": "10.7.0.0",
+                "sourceUrl": "https://github.com/danieladov/jellyfin-plugin-mergeversions/releases/download/10.7.7.0/Jellyfin-Plugin-MergeVersions.zip",
+                "checksum": "00818cbc89b8d596cd5a3962c5a8a9b0",
+                "timestamp": "2021-12-02 23:35:50"
+            },
+			{
                 "version": "10.7.0.2",
                 "changelog": "Fix error where movies were merged only by year\n",
                 "targetAbi": "10.7.0.0",
