@@ -15,6 +15,8 @@ Manifest for my Jellyfin plugins
 
 ## Current Plugins
 1. <a href = "https://github.com/danieladov/jellyfin-plugin-mergeversions"> Merge Versions</a>
+2. <a href = "https://github.com/danieladov/jellyfin-plugin-skin-manager"> Skin Manager</a>
+3. <a href = "https://github.com/danieladov/jellyfin-plugin-themesongs"> Theme Songs</a>
 
 
 
