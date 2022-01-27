@@ -8,6 +8,14 @@
         "category": "General",
         "versions": [
 			{
+                "version": "10.8.0.0",
+                "changelog": "Update to Jellyfin 10.8.0\n",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://github.com/danieladov/jellyfin-plugin-mergeversions/releases/download/10.8.0.0/Jellyfin-Plugin-MergeVersions.zip",
+                "checksum": "e279e18a0687d041a21ab7f3cfc7ec42",
+                "timestamp": "2022-01-27 22:34:50"
+            },
+			{
                 "version": "10.7.7.0",
                 "changelog": "Better detection and optimitation\n",
                 "targetAbi": "10.7.0.0",
