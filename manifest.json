@@ -68,7 +68,7 @@
         "category": "General",
         "versions": [
 			{
-                "version": "10.7.0.2",
+                "version": "10.8.0.0",
                 "changelog": "Update to Jellyfin 10.8.0",
                 "targetAbi": "10.8.0.0",
                 "sourceUrl": "https://github.com/danieladov/jellyfin-plugin-themesongs/releases/download/10.8.0.0/Jellyfin-Plugin-ThemeSongs.zip",
