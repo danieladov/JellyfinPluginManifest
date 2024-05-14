@@ -7,7 +7,15 @@
         "owner": "danieladov",
         "category": "General",
         "versions": [
-			{
+            {
+                "version": "10.9.0.1",
+                "changelog": "Add compatibility with 10.9.1",
+                "targetAbi": "10.9.0.0",
+                "sourceUrl": "https://github.com/danieladov/jellyfin-plugin-mergeversions/releases/download/10.9.1.0/Jellyfin-Plugin-MergeVersions.zip",
+                "checksum": "9d331c5f325b2300afb5bd95934cae0a",
+                "timestamp": "2024-05-14 16:30:00"
+            },
+            {
                 "version": "10.8.0.2",
                 "changelog": "Fix splitting not taking into account excluded libraries",
                 "targetAbi": "10.8.0.0",
@@ -15,7 +23,7 @@
                 "checksum": "a5f050230cce782a6be24e5b6f048593",
                 "timestamp": "2023-04-20 16:35:00"
             },
-			{
+            {
                 "version": "10.8.0.1",
                 "changelog": "Update to Jellyfin 10.8.0-beta1\n",
                 "targetAbi": "10.8.0.0",
@@ -23,7 +31,7 @@
                 "checksum": "6aca911b69ab2f4a4e46331e53a48c81",
                 "timestamp": "2022-04-11 15:39:00"
             },
-			{
+            {
                 "version": "10.8.0.0",
                 "changelog": "Update to Jellyfin 10.8.0\n",
                 "targetAbi": "10.8.0.0",
@@ -31,7 +39,7 @@
                 "checksum": "e279e18a0687d041a21ab7f3cfc7ec42",
                 "timestamp": "2022-01-27 22:34:50"
             },
-			{
+            {
                 "version": "10.7.7.0",
                 "changelog": "Better detection and optimitation\n",
                 "targetAbi": "10.7.0.0",
@@ -39,7 +47,7 @@
                 "checksum": "00818cbc89b8d596cd5a3962c5a8a9b0",
                 "timestamp": "2021-12-02 23:35:50"
             },
-			{
+            {
                 "version": "10.7.0.2",
                 "changelog": "Fix error where movies were merged only by year\n",
                 "targetAbi": "10.7.0.0",
@@ -47,7 +55,7 @@
                 "checksum": "9f94b5248e944bed2a965c251663ab97",
                 "timestamp": "2021-02-02 02:45:58"
             },
-			{
+            {
                 "version": "10.7.0",
                 "changelog": "Update to 10.7.0\n",
                 "targetAbi": "10.7.0.0",
@@ -55,8 +63,7 @@
                 "checksum": "95e271b58302f4372dd4551c44da618b",
                 "timestamp": "2020-12-05 13:45:58"
             },
-		
-			{
+            {
                 "version": "1.4.0.0",
                 "changelog": "New option to exclude paths from being merge\n",
                 "targetAbi": "10.6.0.0",
@@ -74,8 +81,7 @@
             }
         ]
     },
-	
-	{
+    {
         "guid": "afe1de9c-63e4-4692-8d8c-7c964df19eb2",
         "name": "Theme Songs",
         "description": "Jellyfin Theme Songs plugin is a plugin that automatically downloads every theme song of your tv shows library\n",
@@ -83,7 +89,7 @@
         "owner": "danieladov",
         "category": "General",
         "versions": [
-			{
+            {
                 "version": "10.8.0.1",
                 "changelog": "Update to Jellyfin 10.8.0-beta1",
                 "targetAbi": "10.8.0.0",
@@ -91,7 +97,7 @@
                 "checksum": "dca8ba0e26e85439a462d6189f663f0e",
                 "timestamp": "2022-04-11 15:15:58"
             },
-			{
+            {
                 "version": "10.8.0.0",
                 "changelog": "Update to Jellyfin 10.8.0",
                 "targetAbi": "10.8.0.0",
@@ -99,7 +105,7 @@
                 "checksum": "94572e861c7043a9241dd91987692513",
                 "timestamp": "2022-02-07 18:00:58"
             },
-			{
+            {
                 "version": "10.7.0.2",
                 "changelog": "Fix Ilogger error",
                 "targetAbi": "10.7.0.0",
@@ -107,7 +113,7 @@
                 "checksum": "9751a00ff9d6de8ca8693c6a448a9f70",
                 "timestamp": "2021-01-31 03:30:58"
             },
-			{
+            {
                 "version": "10.7.0",
                 "changelog": "Update to 10.7.0",
                 "targetAbi": "10.7.0.0",
@@ -125,16 +131,16 @@
             }
         ]
     },
-	{
+    {
         "guid": "e9ca8b8e-ca6d-40e7-85dc-58e536df8eb3",
         "name": "Skin Manager",
         "description": "Skin manager helps you to download and install most popular skins for jellyfin\n",
         "overview": "Skins for jellyfin",
         "owner": "danieladov",
-		"imageURL": "https://raw.githubusercontent.com/danieladov/jellyfin-plugin-skin-manager/master/src/img/thumb.png",
+        "imageURL": "https://raw.githubusercontent.com/danieladov/jellyfin-plugin-skin-manager/master/src/img/thumb.png",
         "category": "General",
         "versions": [
-			{
+            {
                 "version": "2.0.1",
                 "changelog": "Added Ultrachromic and few fixes\n",
                 "targetAbi": "10.7.0.0",
@@ -142,7 +148,7 @@
                 "checksum": "7e0fb755bb579d2c4fa9a3ae733cf7ce",
                 "timestamp": "2022-06-14 12:02:52"
             },
-			{
+            {
                 "version": "2.0.0",
                 "changelog": "New custom skin editor\n",
                 "targetAbi": "10.7.0.0",
@@ -150,7 +156,7 @@
                 "checksum": "64672b424ca0ac7cd1f3b032eef40b55",
                 "timestamp": "2021-05-13 12:02:52"
             },
-			{
+            {
                 "version": "1.5.0.0",
                 "changelog": "[BETA] Options to preview and edit the skins\n",
                 "targetAbi": "10.7.0.0",
@@ -158,7 +164,7 @@
                 "checksum": "2c479ab72de0f3391bad4da26f9b98d2",
                 "timestamp": "2020-12-11 22:02:52"
             },
-			{
+            {
                 "version": "1.4.0.0",
                 "changelog": "Skin versions support\n",
                 "targetAbi": "10.6.0.0",
