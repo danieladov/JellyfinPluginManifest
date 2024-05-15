@@ -5,10 +5,19 @@
         "description": "Jellyfin Merge Versions plugin is a plugin that automatically groups every repeated movie\n",
         "overview": "Automatically merge repeated movies",
         "owner": "danieladov",
+        "imageUrl": "https://raw.githubusercontent.com/danieladov/JellyfinPluginManifest/master/resources/MergeVersions/thumb.png",
         "category": "General",
         "versions": [
             {
-                "version": "10.9.0.1",
+                "version": "10.9.1.1",
+                "changelog": "Bug fixes",
+                "targetAbi": "10.9.0.0",
+                "sourceUrl": "https://github.com/danieladov/jellyfin-plugin-mergeversions/releases/download/10.9.1.1/Jellyfin-Plugin-MergeVersions.zip",
+                "checksum": "020a901a5bfbc58e27f6780433598fe4",
+                "timestamp": "2024-05-15 16:45:00"
+            },
+            {
+                "version": "10.9.1.0",
                 "changelog": "Add compatibility with 10.9.1",
                 "targetAbi": "10.9.0.0",
                 "sourceUrl": "https://github.com/danieladov/jellyfin-plugin-mergeversions/releases/download/10.9.1.0/Jellyfin-Plugin-MergeVersions.zip",
@@ -137,7 +146,7 @@
         "description": "Skin manager helps you to download and install most popular skins for jellyfin\n",
         "overview": "Skins for jellyfin",
         "owner": "danieladov",
-        "imageURL": "https://raw.githubusercontent.com/danieladov/jellyfin-plugin-skin-manager/master/src/img/thumb.png",
+        "imageUrl": "https://raw.githubusercontent.com/danieladov/jellyfin-plugin-skin-manager/master/src/img/thumb.png",
         "category": "General",
         "versions": [
             {
