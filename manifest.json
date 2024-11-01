@@ -98,6 +98,14 @@
         "owner": "danieladov",
         "category": "General",
         "versions": [
+			{
+                "version": "10.10.0.1",
+                "changelog": "Update to 10.10.0",
+                "targetAbi": "10.10.0.0",
+                "sourceUrl": "https://github.com/danieladov/jellyfin-plugin-themesongs/releases/download/10.10.0.1/Jellyfin-Plugin-ThemeSongs.zip",
+                "checksum": "34d2370da17915fa6312922c91bb6dcc",
+                "timestamp": "2024-11-01T20:30:00"
+            },
             {
                 "version": "10.9.2.10",
                 "changelog": "Update to 10.9.0",
