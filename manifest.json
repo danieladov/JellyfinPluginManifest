@@ -8,6 +8,14 @@
         "imageUrl": "https://raw.githubusercontent.com/danieladov/JellyfinPluginManifest/master/resources/MergeVersions/thumb.png",
         "category": "General",
         "versions": [
+			{
+                "version": "10.10.0.1",
+                "changelog": "Merge only when new versions available",
+                "targetAbi": "10.10.0.0",
+                "sourceUrl": "https://github.com/danieladov/jellyfin-plugin-mergeversions/releases/download/10.10.0.1/Jellyfin-Plugin-MergeVersions.zip",
+                "checksum": "5fbf126b93a2f8cf2dd817c0c60fa424",
+                "timestamp": "2025-01-05T20:15:00"
+            },
             {
                 "version": "10.9.1.1",
                 "changelog": "Bug fixes",
