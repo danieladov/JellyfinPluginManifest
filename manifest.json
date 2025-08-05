@@ -9,6 +9,14 @@
         "category": "General",
         "versions": [
 			{
+                "version": "10.10.0.3",
+                "changelog": "Fix library merge issue for movies in subfolders",
+                "targetAbi": "10.10.0.0",
+                "sourceUrl": "https://github.com/danieladov/jellyfin-plugin-mergeversions/releases/download/10.10.0.3/Jellyfin-Plugin-MergeVersions.zip",
+                "checksum": "93cd064ffc0474e874b82a5fceefde35",
+                "timestamp": "2025-08-05T17:15:00"
+            },
+			{
                 "version": "10.10.0.2",
                 "changelog": "Merge only when new versions available",
                 "targetAbi": "10.10.0.0",
