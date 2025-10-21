@@ -147,6 +147,14 @@
         "category": "General",
         "versions": [
 			{
+                "version": "10.11.0.1",
+                "changelog": "Update to 10.11.0",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/danieladov/jellyfin-plugin-themesongs/releases/download/10.11.0.1/Jellyfin-Plugin-ThemeSongs.zip",
+                "checksum": "29e161420e119e1dbc6ad0a908c14196",
+                "timestamp": "2025-10-21T09:30:00"
+            },
+			{
                 "version": "10.10.0.1",
                 "changelog": "Update to 10.10.0",
                 "targetAbi": "10.10.0.0",
