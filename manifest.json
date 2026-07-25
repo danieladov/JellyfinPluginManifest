@@ -13,7 +13,7 @@
                 "changelog": "Upgrade to 12.0 version",
                 "targetAbi": "12.0",
                 "sourceUrl": "https://github.com/danieladov/jellyfin-plugin-mergeversions/releases/download/12.0.0/Jellyfin.Plugin.MergeVersions.zip",
-                "checksum": "ea467eb9aabbdfc12fafe313c281f30e",
+                "checksum": "b8a8b75010b807581e9548fa5d09f6d1",
                 "timestamp": "2026-07-25T19:15:00"
             },
 		    {
